@@ -1,0 +1,6 @@
+[submodule "kickscorner-frontend"]
+	path = kickscorner-frontend
+	url = https://github.com/Bfilahi/kickscorner-frontend.git
+[submodule "kickscorner-backend"]
+	path = kickscorner-backend
+	url = https://github.com/Bfilahi/kickscorner-backend.git
